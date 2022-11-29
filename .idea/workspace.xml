@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659414c5-4b9f-43e7-805f-4d30dc399c7c" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/43aeddaa-6993-4e33-88ad-2b04c0623c81.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/43aeddaa-6993-4e33-88ad-2b04c0623c81.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
     </list>
@@ -85,7 +87,7 @@
       <workItem from="1669651656192" duration="263000" />
       <workItem from="1669651932673" duration="308000" />
       <workItem from="1669652260990" duration="2971000" />
-      <workItem from="1669712884689" duration="3802000" />
+      <workItem from="1669712884689" duration="8099000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1669648896136</created>
